@@ -1,0 +1,14 @@
+<section class="container-sm bg-light p-0" style="width: 500px">
+  <ul class="nav nav-tabs">
+    <li
+      *ngFor="let tab of tabs"
+      (click)="selectTab(tab)"
+      class="flex-grow-1"
+      [class.active]="tab.active">
+      <a href="#" class="nav-link text-dark" [ngClass]="{ active: tab.active }">
+        {{ tab.title }}
+      </a>
+    </li>
+  </ul>
+  <ng-content></ng-content>
+</section>

@@ -1,6 +1,18 @@
-<app-tabs>
-  <app-tab title="Tab 1"> Tab 1 content </app-tab>
-  <app-tab title="Tab 2"> Tab 2 content </app-tab>
-  <app-tab title="Tab 3"> Tab 3 content </app-tab>
-  <app-tab title="Tab 4"> Tab 4 content </app-tab>
-</app-tabs>
+<div
+  style="height: 100vh"
+  class="d-flex align-items-center justify-content-center">
+  <app-tabs>
+    <app-tab title="Income">
+      <app-table source="income"></app-table>
+    </app-tab>
+    <app-tab title="Outcome">
+      <app-table source="outcome"></app-table>
+    </app-tab>
+    <app-tab title="Loans">
+      <app-table source="loan"></app-table>
+    </app-tab>
+    <app-tab title="Investmens">
+      <app-table source="investment"></app-table>
+    </app-tab>
+  </app-tabs>
+</div>

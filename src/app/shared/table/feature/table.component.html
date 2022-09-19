@@ -1,0 +1,28 @@
+<table class="d-flex flex-column" style="min-height: 360px">
+  <tr class="d-flex w-90 ms-5">
+    <th class="w-50">Name</th>
+    <th class="w-50">Account</th>
+  </tr>
+  <tr
+    class="d-flex w-90 ms-5"
+    *ngFor="
+      let transaction of transactions
+        | paginate: { itemsPerPage: 10, currentPage: page }
+    ">
+    <td class="w-50">
+      {{ transaction.name.first + ' ' + transaction.name.last }}
+    </td>
+    <td class="w-50">
+      {{ transaction.amount }}
+    </td>
+  </tr>
+  <div
+    style="align-self: center; margin-left: -40px; margin-top: auto"
+    [ngClass]="{ active: '' }">
+    <pagination-controls
+      (pageChange)="page = $event"
+      previousLabel=""
+      nextLabel="">
+    </pagination-controls>
+  </div>
+</table>

@@ -1,0 +1,78 @@
+<div
+  class="container"
+  style="
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 700px;
+  ">
+  <ul
+    class="list-unstyled text-center"
+    style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem">
+    <li style="grid-column: 1 / 3">
+      <app-card
+        text="With supporting text below as a natural lead-in to additional content"
+        title="Welcome">
+        <a
+          [routerLink]="['navigation']"
+          class="btn btn-primary"
+          [queryParams]="{ tab: 0 }">
+          See transactions
+        </a>
+      </app-card>
+    </li>
+
+    <li class="p-2 bg-light" style="grid-column: 1 / 3">
+      You have <b>{{ total }}</b> transactions
+    </li>
+
+    <li>
+      <app-card text="Income" [title]="incomeAmt">
+        <a
+          [routerLink]="['navigation']"
+          class="btn btn-primary"
+          [queryParams]="{ tab: 0 }"
+          style="min-width: 8rem">
+          See all
+        </a>
+      </app-card>
+    </li>
+
+    <li>
+      <app-card text="Investments" [title]="investmentsAmt">
+        <a
+          [routerLink]="['navigation']"
+          class="btn btn-primary"
+          [queryParams]="{ tab: 3 }"
+          style="width: 8rem">
+          See all
+        </a>
+      </app-card>
+    </li>
+
+    <li>
+      <app-card text="Outcome" [title]="outcomeAmt">
+        <a
+          [routerLink]="['navigation']"
+          class="btn btn-primary"
+          [queryParams]="{ tab: 1 }"
+          style="min-width: 8rem">
+          See all
+        </a>
+      </app-card>
+    </li>
+
+    <li>
+      <app-card text="Loans" [title]="loansAmt">
+        <a
+          [routerLink]="['navigation']"
+          class="btn btn-primary"
+          [queryParams]="{ tab: 2 }"
+          style="min-width: 8rem">
+          See all
+        </a>
+      </app-card>
+    </li>
+  </ul>
+</div>

@@ -6,23 +6,25 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { TabComponent, TabsComponent, TableComponent } from './shared';
+import { SummaryPageComponent, CardComponent } from './summary';
+import { ListPageComponent } from './list';
 
-import { ListComponent } from './list/feature/list.component';
 import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
-  { path: '', component: ListComponent },
-  { path: 'navigation', component: ListComponent },
-  { path: '**', redirectTo: '/' },
+  { path: '', component: SummaryPageComponent },
+  { path: 'navigation', component: ListPageComponent },
 ];
 
 @NgModule({
   declarations: [
     AppComponent,
+    CardComponent,
     TabComponent,
     TabsComponent,
     TableComponent,
-    ListComponent,
+    ListPageComponent,
+    SummaryPageComponent,
   ],
   imports: [
     BrowserModule,

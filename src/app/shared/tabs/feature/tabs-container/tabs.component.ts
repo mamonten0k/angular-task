@@ -3,7 +3,6 @@ import {
   ContentChildren,
   QueryList,
   AfterContentInit,
-  SimpleChanges,
 } from '@angular/core';
 
 import { ActivatedRoute } from '@angular/router';
@@ -28,8 +27,7 @@ export class TabsComponent implements AfterContentInit {
       });
 
       this.route.queryParams.subscribe(params => {
-        const tabID = params['tab'];
-        let tab: TabComponent = this.tabs.filter(tab => tab.id == tabID)[0];
+        let tab = this.tabs.filter(tab => tab.id == params['tab'])[0];
 
         if (!tab) {
           tab = this.tabs.first;

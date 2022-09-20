@@ -7,13 +7,13 @@ import {
 
 import { ITransaction } from '../../../store/data-access/data.typings';
 
-import { dispatch } from '../../../store/data-access/data.service';
+import { dispatchTable } from '../../../store/data-access/data.service';
 
 @Component({
   selector: 'app-table',
   templateUrl: './table.component.html',
 })
-export class TableComponent implements AfterContentInit, AfterViewChecked {
+export class TableComponent implements AfterContentInit {
   @Input() source: string;
 
   page: number = 1;
@@ -22,11 +22,7 @@ export class TableComponent implements AfterContentInit, AfterViewChecked {
 
   ngAfterContentInit() {
     if (this.source) {
-      this.transactions = dispatch(this.source);
+      this.transactions = dispatchTable(this.source);
     }
-  }
-
-  ngAfterViewChecked() {
-    this.page = 1;
   }
 }

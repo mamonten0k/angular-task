@@ -1,9 +1,9 @@
 {
-  "total": 100,
+  "total": 106,
   "data": [
     {
       "_id": "5d99beb677015a5c2c14542e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Jordan",
@@ -17,7 +17,7 @@
     
     {
       "_id": "5d99beb69a6aac64be820dbe",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Francis",
@@ -30,7 +30,7 @@
     },
     {
       "_id": "5d99beb635dd82195040195b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Bass",
@@ -43,7 +43,7 @@
     },
     {
       "_id": "5d99beb6283bac04b3763000",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Mabel",
@@ -56,7 +56,7 @@
     },
     {
       "_id": "5d99beb6207f35413c9b629b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Lambert",
@@ -69,7 +69,7 @@
     },
     {
       "_id": "5d99beb6f6db754cee0835a0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Jeanie",
@@ -82,7 +82,7 @@
     },
     {
       "_id": "5d99beb6f6db754cee0835dd",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Jeanie",
@@ -95,7 +95,7 @@
     },
     {
       "_id": "5d99beb6f6db754cee08ff5a0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Jeanie",
@@ -108,7 +108,7 @@
     },
     {
       "_id": "5d99beb6f6db754caa835a0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Jeanie",
@@ -121,7 +121,7 @@
     },
     {
       "_id": "5d99beb6f6db754cedd5a0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Jeanie",
@@ -134,7 +134,7 @@
     },
     {
       "_id": "5d99beb6f6db754cess0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Jeanie",
@@ -147,7 +147,7 @@
     },
     {
       "_id": "5d99beb6f6db754css835a0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Jeanie",
@@ -160,7 +160,7 @@
     },
     {
       "_id": "5d99beb6c0c5d1e73c8bb5a2",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Lynn",
@@ -173,7 +173,7 @@
     },
     {
       "_id": "5d99beb69aec11b778e276c9",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Roseann",
@@ -186,7 +186,7 @@
     },
     {
       "_id": "5d99beb61851f0fadfe6bca0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Dianna",
@@ -199,7 +199,7 @@
     },
     {
       "_id": "5d99beb61894e3a0d8a8aaeb",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Misty",
@@ -212,7 +212,7 @@
     },
     {
       "_id": "5d99beb6b15536f75b46a608",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Tammie",
@@ -225,7 +225,7 @@
     },
     {
       "_id": "5d99beb62fc237aa62133abc",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Rasmussen",
@@ -238,7 +238,7 @@
     },
     {
       "_id": "5d99beb6e0f76b46c0f5ce21",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Allie",
@@ -251,7 +251,7 @@
     },
     {
       "_id": "5d99beb67ba49c6e156b8999",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Hammond",
@@ -264,7 +264,7 @@
     },
     {
       "_id": "5d99beb6b13450897a61c8b0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Scott",
@@ -277,7 +277,7 @@
     },
     {
       "_id": "5d99beb6f9f4e1748d85a971",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Alexander",
@@ -290,7 +290,7 @@
     },
     {
       "_id": "5d99beb600162e31cce6d255",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Letitia",
@@ -303,7 +303,7 @@
     },
     {
       "_id": "5d99beb6f46990cdedd7a054",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Myers",
@@ -316,7 +316,7 @@
     },
     {
       "_id": "5d99beb68066435dd603b971",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Daphne",
@@ -329,7 +329,7 @@
     },
     {
       "_id": "5d99beb6481acdc4f1f2dbcd",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Dillon",
@@ -342,7 +342,7 @@
     },
     {
       "_id": "5d99beb66abe615580c7868c",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Reese",
@@ -355,7 +355,7 @@
     },
     {
       "_id": "5d99beb6cf9df8720ce4e771",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Howard",
@@ -368,7 +368,7 @@
     },
     {
       "_id": "5d99beb6022f6189a1f23970",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Kathleen",
@@ -381,7 +381,7 @@
     },
     {
       "_id": "5d99beb6230c62aa8243ff80",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Amparo",
@@ -394,7 +394,7 @@
     },
     {
       "_id": "5d99beb6f7f32d24da875f1b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Acevedo",
@@ -407,7 +407,7 @@
     },
     {
       "_id": "5d99beb68b54b0c3a0ef3470",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Moore",
@@ -420,7 +420,7 @@
     },
     {
       "_id": "5d99beb6b7490a9aacc00b1a",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Ina",
@@ -433,7 +433,7 @@
     },
     {
       "_id": "5d99beb64e9dfcb53acd8626",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Dorsey",
@@ -446,7 +446,7 @@
     },
     {
       "_id": "5d99beb6f53bb9cc0b870839",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Wolfe",
@@ -459,7 +459,7 @@
     },
     {
       "_id": "5d99beb626d3124fa91e7429",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Manning",
@@ -472,7 +472,7 @@
     },
     {
       "_id": "5d99beb664a4e4c72591f9a3",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Tucker",
@@ -485,7 +485,7 @@
     },
     {
       "_id": "5d99beb66b24688a0de700a0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Skinner",
@@ -498,7 +498,7 @@
     },
     {
       "_id": "5d99beb6c0dba22f51f3adc2",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Farrell",
@@ -511,7 +511,7 @@
     },
     {
       "_id": "5d99beb6d3647cf8b14c9409",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Cathy",
@@ -524,7 +524,7 @@
     },
     {
       "_id": "5d99beb698d1fbade2a863a3",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Lindsey",
@@ -537,7 +537,7 @@
     },
     {
       "_id": "5d99beb633f3e5c3e8378aa7",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Key",
@@ -550,7 +550,7 @@
     },
     {
       "_id": "5d99beb6af9bf2e627e8f6ad",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Mueller",
@@ -563,7 +563,7 @@
     },
     {
       "_id": "5d99beb6967feb03ef03b2e9",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Stacey",
@@ -576,7 +576,7 @@
     },
     {
       "_id": "5d99beb6069071371bb4fe57",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Fitzpatrick",
@@ -589,7 +589,7 @@
     },
     {
       "_id": "5d99beb645e90e295a14abaf",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Sanchez",
@@ -602,7 +602,7 @@
     },
     {
       "_id": "5d99beb65b3f217fd4c9fe32",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Christian",
@@ -615,7 +615,7 @@
     },
     {
       "_id": "5d99beb690336c6b9a82eb4a",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Jodie",
@@ -628,7 +628,7 @@
     },
     {
       "_id": "5d99beb6c3b33f427845205d",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Conley",
@@ -641,7 +641,7 @@
     },
     {
       "_id": "5d99beb6121ba61ba9c779bc",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Janell",
@@ -654,7 +654,7 @@
     },
     {
       "_id": "5d99beb6e7771bb8cff666d6",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Ward",
@@ -667,7 +667,7 @@
     },
     {
       "_id": "5d99beb6086149feeefc2e66",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Hogan",
@@ -680,7 +680,7 @@
     },
     {
       "_id": "5d99beb6ff11eacb34de4f10",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Inez",
@@ -693,7 +693,7 @@
     },
     {
       "_id": "5d99beb60be55eb1da68c4ba",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Bridges",
@@ -706,7 +706,7 @@
     },
     {
       "_id": "5d99beb64337005cefde4626",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Grimes",
@@ -719,7 +719,7 @@
     },
     {
       "_id": "5d99beb6f7e4e652c75868a8",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Shepherd",
@@ -732,7 +732,7 @@
     },
     {
       "_id": "5d99beb63c892055952c1908",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Morris",
@@ -745,7 +745,7 @@
     },
     {
       "_id": "5d99beb6c614fe4c8ca3c023",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Josie",
@@ -758,7 +758,7 @@
     },
     {
       "_id": "5d99beb6558891537809623e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Hall",
@@ -771,7 +771,7 @@
     },
     {
       "_id": "5d99beb6a5060fbac46cc79d",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Perkins",
@@ -784,7 +784,7 @@
     },
     {
       "_id": "5d99beb68533edf2fdc241bb",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Bender",
@@ -797,7 +797,7 @@
     },
     {
       "_id": "5d99beb6ba779217e965a21c",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Boone",
@@ -810,7 +810,7 @@
     },
     {
       "_id": "5d99beb6ffddf4af466b7a06",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Cathleen",
@@ -823,7 +823,7 @@
     },
     {
       "_id": "5d99beb6d927af5635543e87",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Marcia",
@@ -836,7 +836,7 @@
     },
     {
       "_id": "5d99beb6b0699f34547ef9cd",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Claire",
@@ -849,7 +849,7 @@
     },
     {
       "_id": "5d99beb61eac41d3bcaeea76",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Gardner",
@@ -862,7 +862,7 @@
     },
     {
       "_id": "5d99beb6ef3b7cd3990499d8",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Mercer",
@@ -875,7 +875,7 @@
     },
     {
       "_id": "5d99beb6815f3f77883aaf66",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Rebecca",
@@ -888,7 +888,7 @@
     },
     {
       "_id": "5d99beb6adcc0c81c5e63963",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Church",
@@ -901,7 +901,7 @@
     },
     {
       "_id": "5d99beb685d74a082da6bc67",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Jocelyn",
@@ -914,7 +914,7 @@
     },
     {
       "_id": "5d99beb688c61720ca3ce583",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Virginia",
@@ -927,7 +927,7 @@
     },
     {
       "_id": "5d99beb6639c96a75559eeac",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Odonnell",
@@ -940,7 +940,7 @@
     },
     {
       "_id": "5d99beb67a6153f9b5df016e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Tia",
@@ -953,7 +953,7 @@
     },
     {
       "_id": "5d99beb6fb959e811bd36cb4",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Duran",
@@ -966,7 +966,7 @@
     },
     {
       "_id": "5d99beb64ffa3eefb4f844ae",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Margo",
@@ -979,7 +979,7 @@
     },
     {
       "_id": "5d99beb626a11674d75bba44",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Lyons",
@@ -992,7 +992,7 @@
     },
     {
       "_id": "5d99beb6b6d969195fff486f",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Gonzales",
@@ -1005,7 +1005,7 @@
     },
     {
       "_id": "5d99beb6e28b54e75b93127f",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Larsen",
@@ -1018,7 +1018,7 @@
     },
     {
       "_id": "5d99beb62ddbe863c0e68462",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Bradshaw",
@@ -1031,7 +1031,7 @@
     },
     {
       "_id": "5d99beb6064d6307872d67d3",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Leta",
@@ -1044,7 +1044,7 @@
     },
     {
       "_id": "5d99beb6410994433c7d1eba",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Baxter",
@@ -1057,7 +1057,7 @@
     },
     {
       "_id": "5d99beb65bf1a846313590f0",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Chen",
@@ -1070,7 +1070,7 @@
     },
     {
       "_id": "5d99beb6fc1c67e102aee9e7",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Mcfarland",
@@ -1083,7 +1083,7 @@
     },
     {
       "_id": "5d99beb63a32d412427672da",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Hernandez",
@@ -1096,7 +1096,7 @@
     },
     {
       "_id": "5d99beb61f78f116aafaad7b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Katina",
@@ -1109,7 +1109,7 @@
     },
     {
       "_id": "5d99beb6abc50cae2376910a",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Tanya",
@@ -1122,7 +1122,7 @@
     },
     {
       "_id": "5d99beb6a6c3c2ca5dcb855c",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Tillman",
@@ -1135,7 +1135,7 @@
     },
     {
       "_id": "5d99beb695b05943e5dd78dd",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Maria",
@@ -1148,7 +1148,7 @@
     },
     {
       "_id": "5d99beb6608b27c39d17ce02",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Sondra",
@@ -1161,7 +1161,7 @@
     },
     {
       "_id": "5d99beb649dcf9042e8ebf3e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Carpenter",
@@ -1174,7 +1174,7 @@
     },
     {
       "_id": "5d99beb6eff39a753c169f9c",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Christina",
@@ -1187,7 +1187,7 @@
     },
     {
       "_id": "5d99beb634e062b7a7bca29b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Anna",
@@ -1200,7 +1200,7 @@
     },
     {
       "_id": "5d99beb6fd10ed3634a91a16",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Yolanda",
@@ -1213,7 +1213,7 @@
     },
     {
       "_id": "5d99beb67d581d81e0038c8e",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Kristi",
@@ -1226,7 +1226,7 @@
     },
     {
       "_id": "5d99beb654a34b0559076fe6",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Stacie",
@@ -1239,7 +1239,7 @@
     },
     {
       "_id": "5d99beb6b28061f866d2c339",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Bonner",
@@ -1252,7 +1252,7 @@
     },
     {
       "_id": "5d99beb65814fce715011141",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Graciela",
@@ -1265,7 +1265,7 @@
     },
     {
       "_id": "5d99beb62061d5009c894004",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Marsha",
@@ -1278,7 +1278,7 @@
     },
     {
       "_id": "5d99beb66941cc9e3e358edd",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Ladonna",
@@ -1291,7 +1291,7 @@
     },
     {
       "_id": "5d99beb669a12f644f5139ee",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "outcome",
       "name": {
         "first": "Alta",
@@ -1304,7 +1304,7 @@
     },
     {
       "_id": "5d99beb6d97a1b21014e5ff1",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Ayala",
@@ -1317,7 +1317,7 @@
     },
     {
       "_id": "5d99beb6ccc8097475120981",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "investment",
       "name": {
         "first": "Glenda",
@@ -1330,7 +1330,7 @@
     },
     {
       "_id": "5d99beb645a511c0f6bce20b",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Rhodes",
@@ -1343,7 +1343,7 @@
     },
     {
       "_id": "5d99beb6a22b596eaf635fd1",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "loan",
       "name": {
         "first": "Bond",
@@ -1356,7 +1356,7 @@
     },
     {
       "_id": "5d99beb65daa71ef83ec6f57",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Curry",
@@ -1369,7 +1369,7 @@
     },
     {
       "_id": "5d99beb60457512fe012d3c8",
-      "amount": "floating(1, 4000, 2)",
+      "amount": "12345",
       "type": "income",
       "name": {
         "first": "Rhoda",

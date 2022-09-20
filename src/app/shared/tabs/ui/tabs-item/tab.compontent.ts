@@ -7,4 +7,5 @@ import { Component, Input } from '@angular/core';
 export class TabComponent {
   @Input() title: string | undefined;
   @Input() active = false;
+  @Input() id: number;
 }

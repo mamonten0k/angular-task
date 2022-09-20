@@ -1,4 +1,9 @@
-import { AfterContentInit, Component, Input } from '@angular/core';
+import {
+  AfterContentInit,
+  AfterViewChecked,
+  Component,
+  Input,
+} from '@angular/core';
 
 import { ITransaction } from '../../../store/data-access/data.typings';
 
@@ -8,7 +13,7 @@ import { dispatch } from '../../../store/data-access/data.service';
   selector: 'app-table',
   templateUrl: './table.component.html',
 })
-export class TableComponent implements AfterContentInit {
+export class TableComponent implements AfterContentInit, AfterViewChecked {
   @Input() source: string;
 
   page: number = 1;
@@ -23,6 +28,5 @@ export class TableComponent implements AfterContentInit {
 
   ngAfterViewChecked() {
     this.page = 1;
-    console.log(this.page, this.source);
   }
 }

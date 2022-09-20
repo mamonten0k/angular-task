@@ -1,12 +1,16 @@
 <section class="container-sm bg-light p-0" style="width: 500px">
   <ul class="nav nav-tabs">
     <li
-      *ngFor="let tab of tabs"
-      (click)="selectTab(tab)"
+      *ngFor="let _tab of tabs; let i = index"
+      (click)="selectTab(_tab)"
       class="flex-grow-1"
-      [class.active]="tab.active">
-      <a href="#" class="nav-link text-dark" [ngClass]="{ active: tab.active }">
-        {{ tab.title }}
+      [class.active]="_tab.active">
+      <a
+        [routerLink]="[]"
+        class="nav-link text-dark"
+        [ngClass]="{ active: _tab.active }"
+        [queryParams]="{ tab: _tab.id }">
+        {{ _tab.title }}
       </a>
     </li>
   </ul>

@@ -1,3 +1,7 @@
-<div [hidden]="!active" class="pane p-3 text-dark bg-white border border-top-0">
+<div
+  [hidden]="!active"
+  class="pane p-3 text-dark bg-white border border-top-0"
+  [routerLink]="['id', '8']"
+  [queryParams]="{ id: 'tablet' }">
   <ng-content></ng-content>
 </div>
